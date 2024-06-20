@@ -1,0 +1,11 @@
+
+
+java:S49737"<Strings and Boxed types should be compared using "equals()".(¸¦§†8Ş«Û¨ƒ2J$a539e4d6-5566-48f1-95ab-f6c14b8c718e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÄ€¡úÿÿÿÿ8°›Ú¨ƒ2J$25bb6fac-19bd-4795-b503-cff8024afced
+ƒ	java:S125@"<This block of commented-out lines of code should be removed.(ÄİæĞÿÿÿÿÿ8ÓûÜ¨ƒ2J$e62728b2-577b-4aad-a648-96c93487b14c
+r	java:S106B"+Replace this use of System.out by a logger.(øöØùÿÿÿÿ8ï›Ú¨ƒ2J$5bf879f9-fe57-4f8f-96bf-4da4c9c68773
+m	java:S106E"+Replace this use of System.out by a logger.(ØÑíì8ò›Ú¨ƒ2J$11502632-af10-4362-bbd2-10e2b315978e
+p
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8õ›Ú¨ƒ2J$ba616ed2-5b29-4b66-af75-5fc117daee52
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ö›Ú¨ƒ2J$2182b6c6-b856-4391-b474-75e7d9313924

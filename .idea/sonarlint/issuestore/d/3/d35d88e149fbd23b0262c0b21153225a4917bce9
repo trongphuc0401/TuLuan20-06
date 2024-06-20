@@ -1,0 +1,23 @@
+
+’
+java:S1319$"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ïƒ‚¢şÿÿÿÿ8Å—¨ƒ2
+Œ
+java:S1319$"jThe type of "stringList" should be an interface such as "List" rather than the implementation "ArrayList".(ïƒ‚¢şÿÿÿÿ8Å—¨ƒ2
+’
+java:S1319:"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ûÎ‡øÿÿÿÿ8Å—¨ƒ2
+Œ
+java:S1319:"jThe type of "stringList" should be an interface such as "List" rather than the implementation "ArrayList".(ûÎ‡øÿÿÿÿ8‘Å—¨ƒ2
+‡
+java:S1319J"jThe type of "stringList" should be an interface such as "List" rather than the implementation "ArrayList".(è•×®8‘Å—¨ƒ2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íß™ıÿÿÿÿ8”Å—¨ƒ2
+[
+java:S1854]"?Remove this useless assignment to local variable "stringArray".(ûÚæ8ÛÅ—¨ƒ2
+L
+java:S1481]"0Remove this unused "stringArray" local variable.(ûÚæ8ÜÅ—¨ƒ2
+L	java:S106e"+Replace this use of System.out by a logger.(Ò¾›†ûÿÿÿÿ8àÅ—¨ƒ2
+W
+java:S2209i"5Change this instance-reference to a static reference.(åì«Šøÿÿÿÿ8âÅ—¨ƒ2
+]	java:S125h"<This block of commented-out lines of code should be removed.(Î©èşıÿÿÿÿ8ãÅ—¨ƒ2
+G	java:S106j"+Replace this use of System.out by a logger.(»ÑÕ8ãÅ—¨ƒ2
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8åÅ—¨ƒ2
